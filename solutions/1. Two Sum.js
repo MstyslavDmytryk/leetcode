@@ -1,5 +1,6 @@
-// // 20.04.2023
-// // https://leetcode.com/problems/two-sum/
+// 20.04.2023
+// Mstyslav Dmytryk
+// https://leetcode.com/problems/two-sum/
 
 /**
  * @param {number[]} nums
